@@ -9,3 +9,6 @@ I work at [michelada.io](https://www.michelada.io/) as a Ruby on Rails Software 
 
 ### My posts
  - [Engines for dummies](https://medium.com/@oneliner.rb/engines-for-dummies-39862d22d0fb). You've probably used Rails Engines and didn't know it!
+
+#### My Gist
+- [Gist](https://gist.github.com/armandoescalier). My notebook. Some useful notes and commands.
